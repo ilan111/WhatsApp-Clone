@@ -32,7 +32,7 @@ function Chat() {
             <div className="chat__body">
                 <p className="chat__message">
                     <span className="chat__name">
-                        Ilan
+                        Ilan Yadgarov
                     </span>
                     This is a message
                     <span className="chat__timestamp">
